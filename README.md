@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey, I'm Sasha · `operagxsasha` 👋
+# Hey, I'm `operagxsasha` 👋
 
 **Web3 Developer · Ruby Enthusiast · Building on-chain**
 
